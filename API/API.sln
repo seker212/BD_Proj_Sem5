@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frontend", "Frontend\Fronte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{257288AA-3691-4907-9786-C424CAD2AB47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF Handling Library", "EF Handling Library\EF Handling Library.csproj", "{3A80C2EF-45EC-4020-88D1-81562291F8EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{257288AA-3691-4907-9786-C424CAD2AB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257288AA-3691-4907-9786-C424CAD2AB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257288AA-3691-4907-9786-C424CAD2AB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A80C2EF-45EC-4020-88D1-81562291F8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A80C2EF-45EC-4020-88D1-81562291F8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A80C2EF-45EC-4020-88D1-81562291F8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A80C2EF-45EC-4020-88D1-81562291F8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
