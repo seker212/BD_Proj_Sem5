@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF Handling Library", "EF Handling Library\EF Handling Library.csproj", "{3A80C2EF-45EC-4020-88D1-81562291F8EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct Connection", "Direct Connection\Direct Connection.csproj", "{D5E4CE67-B431-4F36-B02F-BB7462C9A378}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3A80C2EF-45EC-4020-88D1-81562291F8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A80C2EF-45EC-4020-88D1-81562291F8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A80C2EF-45EC-4020-88D1-81562291F8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E4CE67-B431-4F36-B02F-BB7462C9A378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E4CE67-B431-4F36-B02F-BB7462C9A378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E4CE67-B431-4F36-B02F-BB7462C9A378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E4CE67-B431-4F36-B02F-BB7462C9A378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
